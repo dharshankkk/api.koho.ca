@@ -1,3 +1,3 @@
 # api.koho.ca
-test
-# subdomain takeover your domain ! ...
+
+# subdomain takeover your domain 
